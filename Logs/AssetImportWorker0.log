@@ -1,0 +1,98 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.7f1 (d91830b65d9b) revision 14227504'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Enterprise; OS build 19042.1348; Version 2009; 64bit' Language: 'en' Physical Memory: 16226 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Unity Projects/Helix
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52926
+Successfully changed project path to: D:/Unity Projects/Helix
+D:/Unity Projects/Helix
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 22.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.7f1 (d91830b65d9b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Unity Projects/Helix/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
+    Vendor:   NVIDIA
+    VRAM:     4018 MB
+    Driver:   30.0.14.9709
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56952
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001916 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 22.03 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.645 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000659 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.764 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1149 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.3 MB.
+System memory in use after: 80.4 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1631.
+Total: 1.554200 ms (FindLiveObjects: 0.114400 ms CreateObjectMapping: 0.032600 ms MarkObjects: 1.391100 ms  DeleteObjects: 0.014900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/Maneger.cs
+  artifactKey: Guid(2fc2850abaf68d144a71e133a3550003) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Maneger.cs using Guid(2fc2850abaf68d144a71e133a3550003) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1716a0cf3225c36dc0bf20071582319') in 0.065241 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Scripts/Control.cs
+  artifactKey: Guid(6cb055c0b8c7d0c4c9dba8aa3e593773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Control.cs using Guid(6cb055c0b8c7d0c4c9dba8aa3e593773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03093ad59b23b7fe212b48630582850e') in 0.030013 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Scripts/Sound.cs
+  artifactKey: Guid(c4929683b50a0fa4ebd69d570c81b3f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Sound.cs using Guid(c4929683b50a0fa4ebd69d570c81b3f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bd532a85ea717134722d243238d9b3e') in 0.006190 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.022549 seconds.
+  path: Assets/Scripts/Color.cs
+  artifactKey: Guid(e38f85e8e5f071149be68d65090797d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Color.cs using Guid(e38f85e8e5f071149be68d65090797d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84bd68978a8c144be405e6e801a59508') in 0.005862 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.015726 seconds.
+  path: Assets/Scripts/Ball.cs
+  artifactKey: Guid(ab648f74d0a9624439fb29d35a0b3883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Ball.cs using Guid(ab648f74d0a9624439fb29d35a0b3883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fec2a94032143c3d2ba6ee731b3e82d3') in 0.005876 seconds 
